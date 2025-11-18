@@ -1,0 +1,122 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    android:padding="5.0dip" >
+
+    <RelativeLayout
+        android:id="@+id/activitymainRelativeLayout1"
+        android:layout_width="fill_parent"
+        android:layout_height="0.0dip"
+        android:layout_weight="1.0"
+        android:background="@drawable/shadow_effect"
+        android:paddingBottom="10.0dip" >
+
+        <EditText
+            android:id="@+id/editText1"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:ems="10"
+            android:gravity="top"
+            android:hint="@string/data"
+            android:inputType="textMultiLine"
+            android:padding="10.0dip" />
+
+        <ImageView
+            android:id="@+id/ImgCopy1"
+            android:layout_width="24.0dip"
+            android:layout_height="24.0dip"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="5.0dip"
+            android:layout_marginTop="5.0dip"
+            android:adjustViewBounds="true"
+            android:background="?android:selectableItemBackground"
+            android:clickable="true"
+            android:contentDescription="@string/copy"
+            android:focusable="true"
+            android:scaleType="centerInside"
+            android:src="@drawable/ic_content_copy" />
+
+        <ImageView
+            android:id="@+id/imgPaste1"
+            android:layout_width="24.0dip"
+            android:layout_height="24.0dip"
+            android:layout_alignParentRight="true"
+            android:layout_below="@+id/ImgCopy1"
+            android:layout_marginRight="5.0dip"
+            android:layout_marginTop="10.0dip"
+            android:adjustViewBounds="true"
+            android:background="?android:selectableItemBackground"
+            android:clickable="true"
+            android:contentDescription="@string/paste"
+            android:focusable="true"
+            android:scaleType="centerInside"
+            android:src="@drawable/ic_content_paste" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/activitymainRelativeLayout2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10.0dip"
+        android:layout_marginTop="10.0dip"
+        android:background="@drawable/shadow_effect2" >
+
+        <Spinner
+            android:id="@+id/spinner1"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/activitymainRelativeLayout1"
+        android:layout_width="fill_parent"
+        android:layout_height="0.0dip"
+        android:layout_marginBottom="8.0dip"
+        android:layout_weight="1.0"
+        android:background="@drawable/shadow_effect"
+        android:paddingBottom="10.0dip" >
+
+        <EditText
+            android:id="@+id/editText2"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:ems="10"
+            android:gravity="top"
+            android:hint="@string/result"
+            android:inputType="textMultiLine"
+            android:padding="10.0dip" />
+
+        <ImageView
+            android:id="@+id/ImgCopy2"
+            android:layout_width="24.0dip"
+            android:layout_height="24.0dip"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="5.0dip"
+            android:layout_marginTop="5.0dip"
+            android:adjustViewBounds="true"
+            android:background="?android:selectableItemBackground"
+            android:clickable="true"
+            android:contentDescription="@string/copy"
+            android:focusable="true"
+            android:scaleType="centerInside"
+            android:src="@drawable/ic_content_copy" />
+
+        <ImageView
+            android:id="@+id/ImgPaste2"
+            android:layout_width="24.0dip"
+            android:layout_height="24.0dip"
+            android:layout_alignParentRight="true"
+            android:layout_below="@+id/ImgCopy2"
+            android:layout_marginRight="5.0dip"
+            android:layout_marginTop="10.0dip"
+            android:adjustViewBounds="true"
+            android:background="?android:selectableItemBackground"
+            android:clickable="true"
+            android:contentDescription="@string/paste"
+            android:focusable="true"
+            android:scaleType="centerInside"
+            android:src="@drawable/ic_content_paste" />
+    </RelativeLayout>
+
+</LinearLayout>

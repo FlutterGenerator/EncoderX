@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="app_name">Encoder X</string>
+    <string name="copy">Copy</string>
+    <string name="data">Data</string>
+    <string name="git_modderhub">Encryption Decryption algorithms written in Java. Here you will get many encryption and decryption algorithms that can be helpful in Android Development.</string>
+    <string name="info">Encode and decode text effortlessly with our versatile tool. From ASCII to Base64, Binary to Hexadecimal, we have got you covered. Whether you are a developer, a cryptography enthusiast, or just curious about encoding formats, our app makes it easy to convert text into various formats and back again. Enjoy seamless encoding and decoding with Encoder X!</string>
+    <string name="paste">Paste</string>
+    <string name="result">Result</string>
+    <string name="used_sources">Used GitHub Open source projects</string>
+
+</resources>
