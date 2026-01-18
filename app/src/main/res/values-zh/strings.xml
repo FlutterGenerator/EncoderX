@@ -1,6 +1,6 @@
 <resources>
 
-    <string name="app_name">Encoder X</string>
+    <string name="app_name" translatable="false">Encoder X</string>
     <string name="copy">复制</string>
     <string name="data">数据</string>
     <string name="info">使用我们的多功能工具轻松编码和解码文本。从 ASCII 到 Base64，从二进制到十六进制，我们都能满足您的需求。无论您是开发人员、密码学爱好者，还是只是对编码格式感到好奇，我们的应用程序都可以轻松将文本转换为各种格式并再转换回来。使用以下工具享受无缝编码和解码 Encoder X！</string>
