@@ -1,6 +1,6 @@
 <resources>
 
-    <string name="app_name">Encoder X</string>
+    <string name="app_name" translatable="false">Encoder X</string>
     <string name="copy">Copy</string>
     <string name="data">Data</string>
     <string name="git_modderhub">Encryption Decryption algorithms written in Java. Here you will get many encryption and decryption algorithms that can be helpful in Android Development.</string>
