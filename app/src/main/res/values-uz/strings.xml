@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name" translatable="false">Encoder X</string>
+    <string name="copy">Nusxalash</string>
+    <string name="data">Ma\'lumotlar</string>
+    <string name="git_modderhub">Java tilida yozilgan shifrlash shifrlash algoritmlari. Bu yerda siz Android ishlab chiqishda foydali bo\'lishi mumkin bo\'lgan ko\'plab shifrlash va shifrlash algoritmlarini topasiz.</string>
+    <string name="info">Bizning ko\'p qirrali vositamiz yordamida matnni osongina kodlang va dekodlang. ASCII dan Base64 gacha, ikkilikdan o\'n oltilikgacha, biz sizga yordam beramiz. Siz dasturchi bo\'lasizmi, kriptografiya ixlosmandisizmi yoki shunchaki kodlash formatlariga qiziqasizmi, bizning ilovamiz matnni turli formatlarga va orqaga aylantirishni osonlashtiradi. Encoder X bilan uzluksiz kodlash va dekodlashdan zavqlaning!</string>
+    <string name="paste">Qo\'yish</string>
+    <string name="result">Natija</string>
+    <string name="used_sources">Ishlatilgan GitHub ochiq kodli loyihalar</string>
+</resources>
