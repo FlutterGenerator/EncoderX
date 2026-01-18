@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name" translatable="false">Encoder X</string>
+    <string name="copy">Нусхабардорӣ</string>
+    <string name="data">Маълумот</string>
+    <string name="git_modderhub">Алгоритмҳои рамзкушоӣ, ки бо забони Java навишта шудаанд. Дар ин ҷо шумо бисёр алгоритмҳои рамзкушоӣ ва рамзкушоиро хоҳед гирифт, ки метавонанд дар таҳияи Android муфид бошанд.</string>
+    <string name="info">Бо ёрии асбоби бисёрҷонибаи мо матнро бе мушкилӣ рамзкушоӣ ва рамзкушоӣ кунед. Аз ASCII то Base64, Binary то Hexadecimal, мо ба шумо кӯмак мекунем. Новобаста аз он ки шумо таҳиягар ҳастед, мухлиси криптография ҳастед ё танҳо ба форматҳои рамзкушоӣ кунҷков ҳастед, барномаи мо табдил додани матнро ба форматҳои гуногун ва баръакс осон мекунад. Аз рамзкушоӣ ва рамзкушоии бефосила бо Encoder X лаззат баред!</string>
+    <string name="paste">Чоп кардан</string>
+    <string name="result">Натиҷа</string>
+    <string name="used_sources">Истифодаи GitHub Лоиҳаҳои кушодаасос</string>
+</resources>
